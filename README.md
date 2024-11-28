@@ -53,7 +53,7 @@ O projeto é composto por dois arquivos principais:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Edgarmls1/analise_bundesliga.git
-   cd bundesliga-dashboard
+   cd analise_bundesliga
 
 2. Instale as dependências:
    ```bash
